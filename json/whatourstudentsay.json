@@ -1,0 +1,40 @@
+{
+  "testimonials": [
+    {
+      "name": "Priya Sharma",
+      "course": "+2 Science",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&h=150&fit=crop&crop=face",
+      "quote": "The faculty here truly cares about each student's success. The smart classrooms and hands-on lab sessions prepared me perfectly for my engineering entrance exams."
+    },
+    {
+      "name": "Rahul Adhikari",
+      "course": "BCA",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+      "quote": "Bridgewater gave me the technical skills and confidence I needed. The computer labs are world-class, and the internship opportunities opened doors to my dream career."
+    },
+    {
+      "name": "Anisha Thapa",
+      "course": "BBS",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+      "quote": "The business program here is exceptional. From case studies to real-world projects, every aspect of my education has been practical and industry-relevant."
+    },
+    {
+      "name": "Sanjay Poudel",
+      "course": "Law",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face",
+      "quote": "The moot court sessions and legal workshops gave me invaluable courtroom experience. I feel completely prepared for my legal career ahead."
+    },
+    {
+      "name": "Kritika Basnet",
+      "course": "+2 Management",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=face",
+      "quote": "The supportive environment and dedicated teachers helped me achieve distinction in my board exams. I couldn't have asked for a better college experience."
+    },
+    {
+      "name": "Arun Maharjan",
+      "course": "+2 Humanities",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+      "quote": "The diverse curriculum and thought-provoking discussions expanded my worldview. Bridgewater truly nurtures critical thinking and creativity."
+    }
+  ]
+}

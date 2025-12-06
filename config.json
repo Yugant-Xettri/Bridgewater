@@ -1,0 +1,82 @@
+{
+  "mistral": {
+    "apiKey": "tNzFBq6hHLnfEbjYXNB0GLJBQh8KSSVf",
+    "model": "mistral-small-latest"
+  },
+  "college": {
+    "name": "Bridgewater International College",
+    "phone": "+977-1-4481590",
+    "email": "info@bridgewater.com.np",
+    "location": "Sinamangal, Kathmandu",
+    "website": "https://bridgewater.com.np"
+  },
+  "images": {
+    "hero": {
+      "background": "/herosection1.webp",
+      "alt": "BWIC Campus"
+    },
+    "logo": {
+      "src": "/logo.png",
+      "alt": "BWIC Logo"
+    },
+    "about": {
+      "collegeBuilding": "/college-building.jpg",
+      "alt": "Bridgewater International College Building"
+    },
+    "icons": {
+      "favicon": "/favicon.ico",
+      "appleTouchIcon": "/apple-touch-icon.png",
+      "ogImage": "/og-image.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "src": "https://images.unsplash.com/photo-1562774053-701939374585?w=800&h=600&fit=crop",
+        "title": "Main Campus Building",
+        "category": "Campus"
+      },
+      {
+        "id": 2,
+        "src": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=800&h=600&fit=crop",
+        "title": "Graduation Ceremony",
+        "category": "Events"
+      },
+      {
+        "id": 3,
+        "src": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=800&h=600&fit=crop",
+        "title": "Computer Lab",
+        "category": "Facilities"
+      },
+      {
+        "id": 4,
+        "src": "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=800&h=600&fit=crop",
+        "title": "Library Study Area",
+        "category": "Facilities"
+      },
+      {
+        "id": 5,
+        "src": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=800&h=600&fit=crop",
+        "title": "Student Activities",
+        "category": "Student Life"
+      },
+      {
+        "id": 6,
+        "src": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=800&h=600&fit=crop",
+        "title": "Science Laboratory",
+        "category": "Facilities"
+      },
+      {
+        "id": 7,
+        "src": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=800&h=600&fit=crop",
+        "title": "Classroom Session",
+        "category": "Academics"
+      },
+      {
+        "id": 8,
+        "src": "https://images.unsplash.com/photo-1461280360983-bd93eaa5051b?w=800&h=600&fit=crop",
+        "title": "Sports Day",
+        "category": "Events"
+      }
+    ]
+  }
+}

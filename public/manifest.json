@@ -1,0 +1,27 @@
+{
+  "name": "Bridgewater International College",
+  "short_name": "BWIC",
+  "description": "Premier NEB & TU affiliated college in Sinamangal, Kathmandu, Nepal. Offering +2 Science, Management, Humanities, Law, BCA, BBS and CA programs.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a5f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "college", "university"],
+  "lang": "en",
+  "dir": "ltr"
+}

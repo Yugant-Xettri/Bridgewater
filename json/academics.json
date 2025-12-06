@@ -1,0 +1,110 @@
+{
+  "programs": [
+    {
+      "id": "plus2-science",
+      "title": "+2 Science",
+      "description": "Physics, Chemistry, Biology, Mathematics with Optional Math compulsory. Pre-medical & Pre-engineering preparation included.",
+      "icon": "Beaker",
+      "href": "/academics/plus2-science",
+      "duration": "2 Years",
+      "affiliation": "NEB",
+      "color": "from-blue-500 to-blue-600",
+      "image": "/images/academics/science_students_lab_cf9128c4.jpg",
+      "category": "plus2"
+    },
+    {
+      "id": "plus2-management",
+      "title": "+2 Management",
+      "description": "Accountancy, Economics, Business Studies with Pre-CMAT preparation. Gateway to CA, Banking & Business careers.",
+      "icon": "TrendingUp",
+      "href": "/academics/plus2-management",
+      "duration": "2 Years",
+      "affiliation": "NEB",
+      "color": "from-emerald-500 to-emerald-600",
+      "image": "/images/academics/business_management__5251077d.jpg",
+      "category": "plus2"
+    },
+    {
+      "id": "plus2-humanities",
+      "title": "+2 Humanities",
+      "description": "Sociology, Mass Communication, Rural Development. Prepare for careers in journalism, NGO & public service.",
+      "icon": "BookOpen",
+      "href": "/academics/plus2-humanities",
+      "duration": "2 Years",
+      "affiliation": "NEB",
+      "color": "from-purple-500 to-purple-600",
+      "image": "/images/academics/humanities_social_st_c472baaf.jpg",
+      "category": "plus2"
+    },
+    {
+      "id": "plus2-law",
+      "title": "+2 Law",
+      "description": "Constitutional Law, Jurisprudence, Procedural Law. Foundation for legal profession and law entrance exams.",
+      "icon": "Scale",
+      "href": "/academics/plus2-law",
+      "duration": "2 Years",
+      "affiliation": "NEB",
+      "color": "from-amber-500 to-amber-600",
+      "image": "/images/academics/law_students_courtro_bdabbf71.jpg",
+      "category": "plus2"
+    },
+    {
+      "id": "bca",
+      "title": "BCA Program",
+      "description": "126 credit hours, 8 semesters. Training in React, Node.js, Laravel, Django & network certifications.",
+      "icon": "Monitor",
+      "href": "/academics/bca",
+      "duration": "4 Years",
+      "affiliation": "TU",
+      "color": "from-cyan-500 to-cyan-600",
+      "image": "/images/academics/computer_programming_9e891944.jpg",
+      "category": "bachelor"
+    },
+    {
+      "id": "bbs",
+      "title": "BBS Program",
+      "description": "Comprehensive business education with specializations in Finance, Marketing & HR. Pathway to MBA.",
+      "icon": "Briefcase",
+      "href": "/academics/bbs",
+      "duration": "4 Years",
+      "affiliation": "TU",
+      "color": "from-rose-500 to-rose-600",
+      "image": "/images/academics/business_studies_stu_8a63f617.jpg",
+      "category": "bachelor"
+    },
+    {
+      "id": "ca",
+      "title": "CA Coaching",
+      "description": "CAP I, II, III preparation through Academy of Commerce. ICAN & ICAI affiliated with articleship placement.",
+      "icon": "Calculator",
+      "href": "/academics/ca",
+      "duration": "Professional",
+      "affiliation": "ICAN",
+      "color": "from-indigo-500 to-indigo-600",
+      "image": "/images/academics/chartered_accountant_aa215377.jpg",
+      "category": "professional"
+    }
+  ],
+  "stats": [
+    {
+      "value": "15+",
+      "label": "Years of Excellence",
+      "icon": "Award"
+    },
+    {
+      "value": "7",
+      "label": "Academic Programs",
+      "icon": "GraduationCap"
+    },
+    {
+      "value": "1000+",
+      "label": "Students Enrolled",
+      "icon": "Users"
+    },
+    {
+      "value": "50+",
+      "label": "Expert Faculty",
+      "icon": "BookOpen"
+    }
+  ]
+}
