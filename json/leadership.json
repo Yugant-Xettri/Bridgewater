@@ -1,5 +1,14 @@
+
 {
   "leaders": [
+    { 
+          "name": "Depak Panday",
+      "role": "Chief Administrator",
+      "credentials": "Administrative Leadership",
+      "initials": "DP",
+      "image": "",
+      "message": "At Bridgewater International College, we believe that education is the most powerful tool to transform lives and build a prosperous nation. Our commitment goes beyond academic excellence — we nurture critical thinking, ethical values, and practical skills that prepare students for real-world challenges.\n\nSince our founding in 2010, we have maintained an unwavering focus on quality education through participatory learning and continuous mentorship. Every student who walks through our doors becomes part of a family dedicated to their success.\n\nOur vision is to create leaders who not only excel professionally but also contribute meaningfully to society. We invite you to join us on this journey of learning, growth, and achievement."
+    }, 
     {
       "name": "Krishna Poudel",
       "role": "Principal",
@@ -15,22 +24,8 @@
       "initials": "BS",
       "image": "",
       "message": "At Bridgewater International College, we are dedicated to nurturing well-rounded individuals who excel academically and contribute positively to society. Our approach focuses on creating an environment where students can discover their true potential.\n\nWorking alongside our Principal, I oversee the academic operations and ensure that our educational standards remain at the highest level. We believe in participatory learning where every student actively engages with their education.\n\nOur commitment to each student's success drives everything we do. From personalized mentorship to comprehensive academic support, we ensure that no student is left behind on their journey to excellence."
-    },
-    {
-      "name": "Deepak Tamang",
-      "role": "Director of Instruction",
-      "credentials": "Curriculum & Teaching Excellence",
-      "initials": "DT",
-      "image": "",
-      "message": "As the Director of Instruction at Bridgewater International College, my focus is on ensuring the highest quality of teaching and curriculum delivery. We continuously update our teaching methodologies to align with global educational standards.\n\nOur faculty comprises experienced educators who are passionate about their subjects and dedicated to student success. We implement innovative teaching strategies that make learning engaging, practical, and relevant to real-world applications.\n\nThrough regular faculty development programs and curriculum enhancements, we ensure that our students receive education that prepares them for the challenges and opportunities of tomorrow."
-    },
-    {
-      "name": "Depak Panday",
-      "role": "Chief Administrator",
-      "credentials": "Administrative Leadership",
-      "initials": "DP",
-      "image": "",
-      "message": "At Bridgewater International College, we believe that education is the most powerful tool to transform lives and build a prosperous nation. Our commitment goes beyond academic excellence — we nurture critical thinking, ethical values, and practical skills that prepare students for real-world challenges.\n\nSince our founding in 2010, we have maintained an unwavering focus on quality education through participatory learning and continuous mentorship. Every student who walks through our doors becomes part of a family dedicated to their success.\n\nOur vision is to create leaders who not only excel professionally but also contribute meaningfully to society. We invite you to join us on this journey of learning, growth, and achievement."
     }
+    
+
   ]
 }
